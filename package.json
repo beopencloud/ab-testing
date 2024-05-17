@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "Alex Kabe",
-  "license": "ISC",
+  "license": "ISC", 
   "description": "",
   "dependencies": {
     "express": "^4.18.2"
